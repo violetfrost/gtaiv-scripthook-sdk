@@ -1,0 +1,5 @@
+#include "resource.h"
+
+IDB_SPEEDO              RCDATA                  "Speedo.png"
+IDB_NEEDLE              RCDATA                  "Needle.png"
+IDB_SPEEDO_KPH          RCDATA                  "SpeedoKPH.png"
