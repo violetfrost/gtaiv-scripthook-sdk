@@ -1,3 +1,7 @@
+> ### This is the original Grand Theft Auto IV ScriptHook SDK by Aru, version 0.4.0, archived for posterity & the sanity of the GTA community into the future.  
+> ### I noticed that this wasn't super well archived anywhere and struggled to find any live mirrors at all. If anyone has any more related files, please let me know somehow!
+> ### Thanks to [remoteman123 on GTAForums](https://gtaforums.com/topic/390582-c-script-hook/?do=findComment&comment=1071926768) for maintaining this mirror prior to my upload!
+
 GTAIV Script Hook 0.4.0 SDK
 Copyright (C) 2009, Aru
 <oneforaru at gmail dot com>
